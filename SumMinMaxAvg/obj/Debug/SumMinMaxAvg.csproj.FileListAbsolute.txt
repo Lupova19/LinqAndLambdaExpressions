@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\SumMinMaxAvg\bin\Debug\SumMinMaxAvg.exe.config
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\SumMinMaxAvg\bin\Debug\SumMinMaxAvg.exe
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\SumMinMaxAvg\bin\Debug\SumMinMaxAvg.pdb
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\SumMinMaxAvg\obj\Debug\SumMinMaxAvg.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\SumMinMaxAvg\obj\Debug\SumMinMaxAvg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\SumMinMaxAvg\obj\Debug\SumMinMaxAvg.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\SumMinMaxAvg\obj\Debug\SumMinMaxAvg.exe
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\SumMinMaxAvg\obj\Debug\SumMinMaxAvg.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\SortShortWords\bin\Debug\SortShortWords.exe.config
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\SortShortWords\bin\Debug\SortShortWords.exe
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\SortShortWords\bin\Debug\SortShortWords.pdb
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\SortShortWords\obj\Debug\SortShortWords.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\SortShortWords\obj\Debug\SortShortWords.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\SortShortWords\obj\Debug\SortShortWords.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\SortShortWords\obj\Debug\SortShortWords.exe
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\SortShortWords\obj\Debug\SortShortWords.pdb

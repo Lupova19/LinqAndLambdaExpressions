@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\TheТhreeLargestNumbers\bin\Debug\TheТhreeLargestNumbers.exe.config
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\TheТhreeLargestNumbers\bin\Debug\TheТhreeLargestNumbers.exe
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\TheТhreeLargestNumbers\bin\Debug\TheТhreeLargestNumbers.pdb
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\TheТhreeLargestNumbers\obj\Debug\TheТhreeLargestNumbers.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\TheТhreeLargestNumbers\obj\Debug\TheТhreeLargestNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\TheТhreeLargestNumbers\obj\Debug\TheТhreeLargestNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\TheТhreeLargestNumbers\obj\Debug\TheТhreeLargestNumbers.exe
+C:\Users\Admin\Desktop\Lupova19\LinqAndLambda\TheТhreeLargestNumbers\obj\Debug\TheТhreeLargestNumbers.pdb
