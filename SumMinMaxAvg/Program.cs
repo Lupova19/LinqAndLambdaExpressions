@@ -30,7 +30,6 @@ namespace SumMinMaxAvg
             Console.WriteLine($"Min:{min}");
             Console.WriteLine($"Max:{max}");
             Console.WriteLine($"Avg:{avg}");
-            Console.WriteLine($"First element:{nums[0]}");
         }
     }
 }
